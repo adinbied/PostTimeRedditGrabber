@@ -5,8 +5,8 @@ Change the Hardcoded Values in the shell script to match your needs.
 
 ## Usage
 
-./IDGrab.sh -r subreddit
+`./IDGrab.sh -r subreddit`
 
 or
 
-./IDGrab.sh -v -r subreddit
+`./IDGrab.sh -v -r subreddit`
